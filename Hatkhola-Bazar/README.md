@@ -17,6 +17,8 @@ This is my first live project, where I worked on creating a complete shopping ex
 - 🔍 Search & filter options for easy navigation  
 - 🛡️ Return and refund policy integration  
 - ⭐ Customer reviews & affiliate program support  
+- 📈 SEO optimization implemented for better search engine visibility
+
 
 ---
 
