@@ -63,8 +63,8 @@ This is my first live project, where I worked on creating a complete shopping ex
 ---
 
 ## Website Preview  
-
-### 1) Home Page  
+<div>
+  ### 1) Home Page  
 <div>
   <img src="home-page.png" alt="Home Page" width="400">
 </div>
@@ -78,6 +78,7 @@ This is my first live project, where I worked on creating a complete shopping ex
 <div>
   <img src="blog-page.png" alt="Home Page" width="400">
 </div>  
+</div>
 
 ---
 
