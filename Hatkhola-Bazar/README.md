@@ -22,7 +22,7 @@ This is my first live project, where I worked on creating a complete shopping ex
 
 ## Tech Stack  
 - **WordPress** – CMS  
-- **WooCommerce** – E-commerce plugin    
+- **WooCommerce** – E-commerce plugin  
 - **Elementor & Elementor Pro** – Page Builder  
 
 ---
@@ -64,15 +64,14 @@ This is my first live project, where I worked on creating a complete shopping ex
 
 ## Website Preview  
 
-<div style="display: flex; overflow-x: auto;">
+### 1) Home Page  
+![Home Page](home-page.png)  
 
-  <img src="home-page.png" alt="Home Page" width="400" style="margin-right: 10px;">
-  <img src="shop-page.png" alt="Shop Page" width="400" style="margin-right: 10px;">
-  <img src="blog-page.png" alt="Blog Page" width="400">
+### 2) Shop Page  
+![Shop Page](shop-page.png)  
 
-</div>
-
-*Scroll horizontally to view all pages.*  
+### 3) Blog Page  
+![Blog Page](blog-page.png)  
 
 ---
 
