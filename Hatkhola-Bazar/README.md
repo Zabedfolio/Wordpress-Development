@@ -11,7 +11,7 @@ This is my first live project, where I worked on creating a complete shopping ex
 ## Features  
 - 🛒 E-commerce functionality with WooCommerce  
 - 📦 Product categories & subcategories  
-- 💳 Bangladeshi mobile payments (bKash, Nagad, etc.)  
+- 💳 Bangladeshi mobile payments (bKash, Nagad, Rocket, etc.)  
 - 📱 Fully responsive design for mobile & desktop  
 - 🚚 Pathao courier integration for local delivery  
 - 🔍 Search & filter options for easy navigation  
@@ -22,10 +22,7 @@ This is my first live project, where I worked on creating a complete shopping ex
 
 ## Tech Stack  
 - **WordPress** – CMS  
-- **WooCommerce** – E-commerce plugin  
-- **PHP** – Backend logic  
-- **MySQL** – Database  
-- **HTML5, CSS3, JavaScript** – Frontend  
+- **WooCommerce** – E-commerce plugin    
 - **Elementor & Elementor Pro** – Page Builder  
 
 ---
@@ -33,19 +30,19 @@ This is my first live project, where I worked on creating a complete shopping ex
 ## Plugins Used  
 
 ### 🛠️ Core Functionality  
-- **WooCommerce** – The main e-commerce engine powering product listings, cart, checkout, and orders.  
+- **WooCommerce** – Main e-commerce engine powering product listings, cart, checkout, and orders.  
 - **Sequential Order Numbers for WooCommerce** – Generates sequential order numbers for better tracking.  
-- **Shipping by City for WooCommerce** – Allows city-based shipping customization, useful for Bangladesh.  
+- **Shipping by City for WooCommerce** – Enables city-based shipping customization.  
 
 ### 📱 Payments & Courier  
-- **Bangladeshi Payments Mobile** – Enables integration of local mobile payment gateways (e.g., bKash, Nagad, Rocket).  
-- **Pathao Courier** – Integrates Pathao Courier service for local delivery management in Bangladesh.  
+- **Bangladeshi Payments Mobile** – Integrates local mobile payment gateways like bKash, Nagad, and Rocket.  
+- **Pathao Courier** – Adds Pathao courier service for local deliveries.  
 
 ### 🎨 Design & UI  
-- **Elementor & Elementor Pro** – Drag-and-drop page builders for designing professional layouts.  
+- **Elementor & Elementor Pro** – Drag-and-drop page builders for professional layouts.  
 - **ElementsKit Lite** – Adds extra widgets and features for Elementor.  
-- **ShopEngine** – Provides WooCommerce-specific templates and design elements for Elementor.  
-- **Widget Options** – Controls widget visibility and customization across the site.  
+- **ShopEngine** – WooCommerce templates and design elements for Elementor.  
+- **Widget Options** – Controls widget visibility and customization.  
 
 ### 📈 SEO, Reviews & Marketing  
 - **Yoast SEO** – SEO optimization for better search engine visibility.  
@@ -53,7 +50,7 @@ This is my first live project, where I worked on creating a complete shopping ex
 - **WP Ultimate Review** – Adds customer review and rating functionality.  
 
 ### 📋 Forms & Interaction  
-- **WPForms Lite** – User-friendly form builder for contact forms, order forms, etc.  
+- **WPForms Lite** – User-friendly form builder for contact and order forms.  
 
 ---
 
@@ -62,6 +59,20 @@ This is my first live project, where I worked on creating a complete shopping ex
 - Worked for over a month to complete and polish this project.  
 - This is my **first live project**, Alhamdulillah.  
 - The site is still under improvement as I continue to refine features and user experience.  
+
+---
+
+## Website Preview  
+
+<div style="display: flex; overflow-x: auto;">
+
+  <img src="home-page.png" alt="Home Page" width="400" style="margin-right: 10px;">
+  <img src="shop-page.png" alt="Shop Page" width="400" style="margin-right: 10px;">
+  <img src="blog-page.png" alt="Blog Page" width="400">
+
+</div>
+
+*Scroll horizontally to view all pages.*  
 
 ---
 
