@@ -64,7 +64,7 @@ This is my first live project, where I worked on creating a complete shopping ex
 
 ## Website Preview  
   
-<divstyle="padding:0; line-height:0;">
+<div style="margin:0;padding:0; line-height:0;">
   <img src="home-page.png" alt="Home Page" width="200">
   <img src="shop-page.png" alt="Home Page" width="200">
   <img src="blog-page.png" alt="Home Page" width="200">
