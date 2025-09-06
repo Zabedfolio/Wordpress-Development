@@ -63,22 +63,12 @@ This is my first live project, where I worked on creating a complete shopping ex
 ---
 
 ## Website Preview  
+  
 <div>
-  ### 1) Home Page  
-<div>
-  <img src="home-page.png" alt="Home Page" width="400">
-</div>
-
-### 2) Shop Page  
-<div>
-  <img src="shop-page.png" alt="Home Page" width="400">
-</div>
-
-### 3) Blog Page  
-<div>
-  <img src="blog-page.png" alt="Home Page" width="400">
+  <img src="home-page.png" alt="Home Page" width="200">
+  <img src="shop-page.png" alt="Home Page" width="200">
+  <img src="blog-page.png" alt="Home Page" width="200">
 </div>  
-</div>
 
 ---
 
